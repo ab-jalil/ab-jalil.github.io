@@ -10,14 +10,19 @@
 .file-box{
     display: flex;
     align-items:center;
+    justify-content: space-between;
     gap: 20px;
     margin-bottom: 30px;
+    border: 1px solid #ddd;
+    padding: 10px 10px;
+    border-radius: 5px;
 }
 .button-p{
-    margin-top: -10px;
-    padding-top: 0;
+    margin-top: -35px;
 }
 .jalil-gap-left-right{
     padding-left: 50px;
     padding-right: 50px;
+    font-size: 60px;
+    font-weight: bold;
 }
